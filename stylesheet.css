@@ -8,9 +8,14 @@ h1{
   text-align: center;
 }
 
+.main div{
+  display: flex;
+  background-color: light-green;
+}
+
 .navigation{
   display: flex;
-  background-color: white;
+  background-color: light-green;
 }
 
 .navigation ul{
