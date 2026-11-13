@@ -10,22 +10,22 @@ h1{
 }
 
 h2{
-    font-family: Garamond;
-    color: #171705;
+  font-family: Garamond;
+  color: #171705;
 }
 
 h3{
-    font-family: Garamond;
-    color: #171705;
+  font-family: Garamond;
+  color: #171705;
 }
 
 h4{
-    font-family: Garamond;
-    color: #171705;
+  font-family: Garamond;
+  color: #171705;
 }
 
 a{
-    color: inherit;
+  color: inherit;
 }
 
 .mainFlex{
@@ -41,9 +41,9 @@ a{
 }
 
 .mainFlexContent{
-    padding: 10px;
-    flex: 3;
-    background-color: #85de85;
+  padding: 10px;
+  flex: 3;
+  background-color: #85de85;
 }
 
 .navigation{
