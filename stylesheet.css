@@ -8,7 +8,7 @@ h1{
   text-align: center;
 }
 
-.main div{
+.main{
   display: flex;
   background-color: light-green;
 }
