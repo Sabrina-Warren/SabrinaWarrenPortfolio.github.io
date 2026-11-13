@@ -4,13 +4,46 @@ body{
 
 h1{
   font-size: 50px;
-  color: black;
+  color: #171705;
   text-align: center;
+  font-family: Garamond;
 }
 
-.main{
+h2{
+    font-family: Garamond;
+    color: #171705;
+}
+
+h3{
+    font-family: Garamond;
+    color: #171705;
+}
+
+h4{
+    font-family: Garamond;
+    color: #171705;
+}
+
+a{
+    color: inherit;
+}
+
+.mainFlex{
   display: flex;
-  background-color: #85de85;
+  padding: 10px;
+}
+
+.mainFlexAbout{
+  padding: 20px;
+  flex: 1;
+  background-color: #69b869;
+  position: sticky;
+}
+
+.mainFlexContent{
+    padding: 10px;
+    flex: 3;
+    background-color: #85de85;
 }
 
 .navigation{
@@ -20,13 +53,13 @@ h1{
 
 .navigation ul{
   list-style-type: none;
-  justify-content: right;
   margin: 0;
-  padding 0;
+  padding: 0;
 }
 
 .navigation li{
   margin: 10px;
   padding: 20px;
   font-size: 30px;
+  font-family: Garamond;
 }
