@@ -1,5 +1,5 @@
 body{
-  background-color: gray;
+  background-color: #569956;
 }
 
 h1{
@@ -10,16 +10,17 @@ h1{
 
 .main{
   display: flex;
-  background-color: light-green;
+  background-color: #85de85;
 }
 
 .navigation{
   display: flex;
-  background-color: light-green;
+  background-color: #85de85;
 }
 
 .navigation ul{
   list-style-type: none;
+  justify-content: right;
   margin: 0;
   padding 0;
 }
